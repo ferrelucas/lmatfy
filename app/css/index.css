@@ -1,0 +1,39 @@
+* {
+	    font-family: 'Open Sans',Arial,sans-serif;
+}
+
+body {
+	background: #4dba7a;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.titulo-principal {
+	text-align: center;
+	color: white;
+	background: #fbcf36;
+	font-size: 60px;
+	font-weight: 900;
+	letter-spacing: -1.3px;
+	padding: 20px 10px;
+}
+
+.form-search {
+	background: #4dba7a;
+}
+
+.form-search-query {
+	margin-top: 60px;
+	text-align: center;
+	width: 100%;
+	background: transparent;
+	border: none;
+	font-size: 120px;
+	color: white;
+	font-weight: 400px;
+	outline: none;
+}
+
